@@ -1,2 +1,2 @@
-# ngFrontEndWWW
- Deploy do ngFrontEnd para render.
+# frontend
+ Deploy de ngFrontEnd para o reder.com.
